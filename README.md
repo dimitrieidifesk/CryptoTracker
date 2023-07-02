@@ -1,5 +1,10 @@
 
 # CryptoTracker
+![top-language](https://img.shields.io/github/languages/top/dimitrieidifesk/CryptoTracker)
+
+![watchers](https://img.shields.io/github/watchers/dimitrieidifesk/CryptoTracker?style=social)
+![forks](https://img.shields.io/github/forks/dimitrieidifesk/CryptoTracker?style=social)
+![start](https://img.shields.io/github/stars/dimitrieidifesk/CryptoTracker?style=social)
 
 CryptoTracker is a Python script with a user-friendly web interface that parses cryptocurrency data from a cryptocurrency exchange and sends notifications to Telegram when the price of a selected currency reaches a specified threshold or falls below it.
 The script helps traders to buy cryptocurrency at a low price in a timely manner.
